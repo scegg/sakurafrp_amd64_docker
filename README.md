@@ -1,6 +1,7 @@
 # SakuraFrp for amd64
 
 This is a docker file of [SakuraFrp](https://www.natfrp.com) for amd64.
+[supervisor](http://supervisord.org/) is used to keep it running.
 
 # Usage
 First, you need to download the latest SakuraFrpc client file to the folder which is chosen to create this docker image. File name should be Sakura_frpc_linux_amd64.
