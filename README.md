@@ -1,2 +1,3 @@
-# sakurafrp_amd64_docker
-Docker of SakuraFrp amd64 version
+# SakuraFrp for amd64
+
+This is a docker file of [SakuraFrp](https://www.natfrp.com) for amd64.
