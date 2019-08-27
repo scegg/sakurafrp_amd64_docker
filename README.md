@@ -13,3 +13,6 @@ Check the file readmd_run for the environment variables.
 
 # Run
 You need to specified su (username), sp (password) and sid (server id) while starting this docker.
+
+# Docker Hub
+This package is [published](https://cloud.docker.com/repository/registry-1.docker.io/scegg/sakurafrp_amd64) to docker hub.
