@@ -1,0 +1,1 @@
+docker run -e su=username_here -e sp=password_here -e sid=server_id_here sakurafrp_amd64

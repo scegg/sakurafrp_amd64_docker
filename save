@@ -1,0 +1,3 @@
+#!/bin/sh
+
+docker save sakurafrp_amd64:latest | gzip > sakurafrp_amd64.tar.gz
