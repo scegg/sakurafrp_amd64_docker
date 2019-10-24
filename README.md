@@ -9,11 +9,11 @@ First, you need to download the latest SakuraFrpc client file to the folder whic
 
 Then, download Dockerfile and sakurafrp.conf to this folder.
 
-Command build to build this image.
+Command [build](build) to build this image.
 
-Command save to export the built image.
+Command [save](save) to export the built image.
 
-Check the file readmd_run for the environment variables.
+Check the file [readme_run](readme_run) for the environment variables.
 
 # Run
 You need to specified su (username), sp (password) and sid (server id) while starting this docker.
