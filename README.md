@@ -1,5 +1,5 @@
-# OBSOLOTED
-This tool is obsoloted coz sakurafrp is upgraded to use the standard frpc.
+# OBSOLETED
+This tool is obsoleted coz sakurafrp is upgraded to use the standard frpc.
 
 # SakuraFrp for amd64
 
